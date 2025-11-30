@@ -27,6 +27,7 @@ export default defineConfig({
     },
   },
   root: path.resolve(import.meta.dirname, "client"),
+  base: '/CalendarPmProject/',
   build: {
     outDir: process.env.GHPAGES === 'true'
       ? path.resolve(import.meta.dirname, "docs")
