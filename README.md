@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Hazem**
-- GitHub:https://github.com/HazemELhanash
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ## 📞 Support
 
